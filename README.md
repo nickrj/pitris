@@ -34,3 +34,8 @@ cd pitris
 ```bash
 make
 ```
+## References
+- [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)
+- [bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
+- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev)
+- [rockytriton/LLD](https://github.com/rockytriton/LLD)

@@ -8,7 +8,7 @@ Pitris is a Tetris operating system for the Raspberry Pi 4. It is a bare metal p
 - microSD card
   
 ## Installation
-1. [Download the image]() and copy it to your SD card (e.g. `/dev/sdb`):
+1. [Download the image](https://github.com/nickrj/pitris/raw/main/tetris.img) and copy it to your SD card (e.g. `/dev/sdb`):
 #### WARNING: this may overwrite your hard drive if you choose the wrong device!
 ```bash
 sudo dd if=tetris.img of=/dev/sdb
